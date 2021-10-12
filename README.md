@@ -4,8 +4,8 @@ Im a Full-Stack Developer, currently building cool stuff in Montreal.
 
 🌎 Find me on the web:
 
-Instagram: co_existenz
-Twitter: KFG_USA
+Instagram: <a href="http://www.instagram.com/co_existenz">co_existenz</a>
+Twitter: <a href="http://www.twitter.com/KFG_USA">Kirill Ginko</a>
 
 🤝 Contact Me: kirillginko@gmail.com
 
