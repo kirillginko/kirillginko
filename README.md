@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Im a Full-Stack Developer, currently building cool stuff in Montreal.
+I'm a Full-Stack Developer, currently building cool stuff in Montreal.
 
-I like using React, Gatsby, Next.js, Three.js, WebGl, React-Spring, Framer-Motion, and Gsap. 💻  
+💻 I like using React, Gatsby, Next.js, Three.js, WebGl, Firebase, Netlify, React-Spring, Framer-Motion, and Gsap.  
 
 🌎 Find me on the web:
 
