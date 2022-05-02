@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Full-Stack Developer, currently building cool stuff in Montreal.
+I'm a Full-Stack Developer, currently building cool stuff in New York.
 
 💻 I like using React, Gatsby, Next.js, Three.js, WebGl, Firebase, Netlify, React-Spring, Framer-Motion, and Gsap.  
 
