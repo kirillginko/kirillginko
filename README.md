@@ -2,9 +2,7 @@
 
 I'm a Full-Stack Developer, currently building cool stuff in New York.
 
-💻 I like using React, Gatsby, Next.js, Three.js, WebGl, Firebase, Netlify, React-Spring, Framer-Motion, and Gsap.  
-
-🌎 Find me on the web:
+💻 I like using React, Next.js, Three.js, WebGl, Firebase, Netlify, React-Spring, Framer-Motion, and Gsap.  
 
 🤝 Contact Me:
 
