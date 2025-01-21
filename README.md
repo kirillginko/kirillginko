@@ -6,10 +6,10 @@ I'm a Full-Stack Developer, currently building cool stuff in New York.
 
 🤝 Contact Me:
 
-✉️ Email: kirill@kirillginko.com
+✉️ Email: kirill@kirill.agency
 
 📱 Phone: 301-512-4249
 
-🌐 Instagram: <a href="http://www.instagram.com/co_existenz">co_existenz</a>
+🌐 Website: <a href="http://kirill.agency">Kirill.Agency</a>
 
 <img src="https://user-images.githubusercontent.com/53977030/136893311-83bf7aae-f03b-42f0-8601-d9ab14a09052.gif">
