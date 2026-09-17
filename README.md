@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a Full-Stack Software Developer, currently building cool stuff in New York.
+I'm a Full-Stack Software Developer, currently based in New York.
 
-Currently Building apps for IOS.
+I am currently building apps for IOS.
 
 💻 I like creating user friendly interactive websites using modern aesthetics and tools like Three.js, WebGL, and Framer.
 
