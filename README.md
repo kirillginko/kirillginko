@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-I'm a Full-Stack Developer, currently building cool stuff in New York.
+I'm a Full-Stack Software Developer, currently building cool stuff in New York.
 
-💻 I like using React, Next.js, Three.js, WebGl, Firebase, Netlify, React-Spring, Framer-Motion, and Gsap.  
+Currently Building apps for IOS.
+
+💻 I like creating user friendly interactive websites using modern aesthetics and tools like Three.js, WebGL, and Framer.
 
 🤝 Contact Me:
 
